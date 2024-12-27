@@ -7,3 +7,5 @@ P
  contracts/impact-assessment.clar,9/9/998860548e8bac75d5da3fa14360b52f601db1ac
 O
 tests/impact-assessment.test.ts,9/b/9b7a0d70ee851a0974d708edf250c87d3df3583e
+O
+contracts/tokenized-voting.clar,6/e/6ebea88a86ac96340fe08365d6696186fd9fb485
